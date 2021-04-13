@@ -42,7 +42,7 @@ export default function Home() {
           {/* icon */}
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
 
-          <Avatar url="http://www.hotavatars.com/wp-content/uploads/2019/01/I80W1Q0.png" />
+          <Avatar url="https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/3_avatar-512.png" />
         </div>
       </header>
 

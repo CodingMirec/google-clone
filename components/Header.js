@@ -54,7 +54,7 @@ function Header() {
         </form>
         <Avatar
           className="ml-auto"
-          url="http://www.hotavatars.com/wp-content/uploads/2019/01/I80W1Q0.png"
+          url="https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/3_avatar-512.png"
         />
       </div>
       <HeaderOptions />
